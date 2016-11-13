@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<array name="pizza_size">
+		<item>@string/small_label</item>
+		<item>@string/medium_label</item>
+		<item>@string/large_label</item>
+		<item>@string/party_label</item>
+	</array>
+	<array name="pizza_crust">
+		<item>@string/thin_label</item>
+		<item>@string/thick_label</item>
+		<item>@string/deepdish_label</item>
+		<item>@string/stuffed_label</item>
+	</array>
+	<array name="pizza_layout">
+		<item>@string/half_label</item>
+		<item>@string/whole_label</item>
+	</array>
+</resources>

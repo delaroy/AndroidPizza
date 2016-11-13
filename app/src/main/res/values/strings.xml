@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="hello">Hello World, Pizza!</string>
+<string name="app_name">Pizza Parlor</string>
+<string name="main_title">Pizza</string>
+<string name="get_started_label">Place an Order!</string>
+<string name="new_pizza_label">Add New Pizza</string>
+<string name="edit_order_label">Edit Order</string>
+<string name="checkout_label">Checkout</string>
+<string name="order_title">Order Summary</string>
+<string name="new_whole_pizza_title">Slide to select your toppings</string>
+<string name="how_to_title">How To Order</string>
+<string name="how_to_text">Following this message you will be given the option of your pizza
+ size, crust, and toppings.  If at any time you need help, press the menu button and select help, 
+ for hints on how to use the current screen.</string>
+<string name="pizza_size">Pizza Size</string>
+<string name="small_label">Small</string>
+<string name="medium_label">Medium</string>
+<string name="large_label">Large</string>
+<string name="party_label">Party</string>
+<string name="crust_selection">Crust Selection</string>
+<string name="thin_label">Thin</string>
+<string name="thick_label">Thick</string>
+<string name="deepdish_label">Deep Dish</string>
+<string name="stuffed_label">Stuffed Crust</string>
+<string name="half_whole_label">Layout</string>
+<string name="half_label">Half and Half</string>
+<string name="whole_label">Whole</string>
+<string name="pepperoni_checkbox">Pepperoni</string>
+<string name="sausage_checkbox">Sausage</string>
+<string name="peppers_checkbox">Peppers</string>
+<string name="onion_checkbox">Onion</string>
+<string name="extra_cheese_checkbox">Extra Cheese</string>
+<string name="mushroom_checkbox">Mushroom</string>
+<string name="add_to_cart_label">Add To Cart</string>
+<string name="enter_name_text">Please enter your name before placing an order.</string>
+<string name="incomplete_title">Incomplete Information</string>
+<string name="right_half_label">Go To Right Half</string>
+<string name="left_half_label">Go To Left Half</string>
+<string name="right_label">Right Half</string>
+<string name="left_label">Left Half</string>
+<string name="checkout_text">Your pizza will be ready for pick up in 15 minutes.</string>
+<string name="checkout_title">Thank you for your order!</string>
+<string name="settings_label">Settings...</string>
+<string name="settings_title">Pizza settings</string>
+<string name="settings_shortcut">s</string>
+<string name="help_label">Help</string>
+<string name="help_title">Help</string>
+<string name="help_shortcut">h</string>
+<string name="add_ingredients_help">To add ingredients to the pizza, slide the pictures at 
+the top of the screen until the topping desired is shown.  Choose which side of the pizza, 
+left, right or whole,  you would like the topping on, and click the picture. "Whole"  adds 
+the topping to the entire pizza, while "Left" and "Right" only put the topping on that side.  
+To remove the item, simply click the picture again. Once all the items have been selected, select "Add to Cart".</string>
+<string name="edit_order_help">To add a new pizza to your order, select "Add New Pizza" and 
+follow the instructions that follow. To edit a pizza in your order, select which pizza you 
+would like to edit.  Once selected, click on "Edit Pizza" to edit the selected pizza. Once 
+you have completed your order, select "Checkout" to know the total and what time to pick up the order.</string>
+<string name="enter_name_help">Enter your name (or nickname) in the box provided, for pick-up.</string>
+<string name="empty">Your shopping cart is currently empty</string>
+<string name="total">Current Total: $0.00</string>
+<string name="exit">Exit</string>
+<string name="cancel_label">Cancel Order</string>
+</resources>

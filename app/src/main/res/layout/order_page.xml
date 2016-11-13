@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:background="@color/background"
+	android:orientation="horizontal"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<LinearLayout
+		android:orientation="vertical"
+		android:layout_height="wrap_content"
+		android:layout_width="fill_parent"
+		android:layout_gravity="bottom">
+		<ListView
+			android:id="@android:id/list"
+			android:layout_width="wrap_content"
+			android:layout_height="340dip" />
+		<TextView
+			android:id="@android:id/empty"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center"
+			android:textSize="18sp"
+			android:layout_marginBottom="150dip"
+			android:text="@string/empty" />
+		<TextView
+			android:id="@+id/total"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center"
+			android:textSize="14sp"
+			android:text="@string/total" />
+		<LinearLayout
+			android:orientation="horizontal"
+			android:layout_height="wrap_content"
+			android:layout_width="fill_parent"
+			android:gravity="center"
+			android:layout_gravity="bottom">
+			<Button
+				android:id="@+id/new_pizza_button"
+				android:layout_width="130dip"
+				android:layout_height="wrap_content"
+				android:layout_gravity="bottom"
+				android:drawableTop="@drawable/more"
+				android:text="@string/new_pizza_label" />
+			<Button
+				android:id="@+id/checkout_button"
+				android:layout_width="130dip"
+				android:layout_height="wrap_content"
+				android:layout_gravity="bottom"
+				android:drawableTop="@drawable/exit"
+				android:text="@string/checkout_label" />
+		</LinearLayout>
+	</LinearLayout>
+</LinearLayout>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\Pizzaex1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\order_page.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\Pizzaex1\\app\\src\\main\\res\\layout\\order_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\Pizzaex1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\Pizzaex1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\Pizzaex1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\new_pizza.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\Pizzaex1\\app\\src\\main\\res\\layout\\new_pizza.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\Pizzaex1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pizza_design.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\Pizzaex1\\app\\src\\main\\res\\layout\\pizza_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\Pizzaex1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\Pizzaex1\\app\\src\\main\\res\\layout\\listview.xml"
+    }
+]
